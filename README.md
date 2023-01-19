@@ -1,1 +1,1 @@
-# -Logo-da-empresa-Alura-Python-para-Data-Science-linguagem-e-Numpy
+# -Python-para-Data-Science-linguagem-e-Numpy
